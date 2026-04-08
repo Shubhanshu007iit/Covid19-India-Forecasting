@@ -1,0 +1,20 @@
+{
+  "Naive Baseline": {
+    "MAE": 87.3,
+    "RMSE": 109.64,
+    "R2": -0.0441,
+    "MAPE": 16.43
+  },
+  "Random Forest": {
+    "MAE": 65.74,
+    "RMSE": 84.51,
+    "R2": 0.3797,
+    "MAPE": 13.39
+  },
+  "Gradient Boosting": {
+    "MAE": 62.7,
+    "RMSE": 71.35,
+    "R2": 0.5577,
+    "MAPE": 12.57
+  }
+}

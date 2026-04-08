@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,MAPE
+Naive Baseline,87.3,109.64,-0.0441,16.43
+Random Forest,65.74,84.51,0.3797,13.39
+Gradient Boosting,62.7,71.35,0.5577,12.57
