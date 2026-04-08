@@ -1,13 +1,4 @@
-"""
-data_preparation.py
--------------------
-Downloads and pre-processes the COVID-19 dataset (Our World in Data) 
-for India at the state/national level, merges Google Mobility data,
-and produces a single cleaned Parquet file ready for modelling.
 
-Run:
-    python src/data_preparation.py
-"""
 
 import os
 import io
